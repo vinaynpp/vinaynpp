@@ -7,16 +7,12 @@
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaynpp&theme=github_dark)](https://github.com/vinaynpp)
 
-[![Vinay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinaynpp)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<figure><embed src="https://wakatime.com/share/@fd3a753e-e2f4-4972-8c7b-7ca508217c61/7c392b3a-96c0-415a-8927-1ab2499f9b5d.svg"></embed></figure>
 
---- 
+![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge)
 
-![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)
 
 ---
 [![wakatime](https://wakatime.com/badge/github/vinaynpp/vinaynpp.svg)](https://wakatime.com/badge/github/vinaynpp/vinaynpp)
