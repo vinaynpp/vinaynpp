@@ -1,6 +1,4 @@
-### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge)
 
 ---
 
@@ -9,6 +7,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynpp&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaynpp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)
+
+---
 
 <!--
 **vinaynpp/vinaynpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
