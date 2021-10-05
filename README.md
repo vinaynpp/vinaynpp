@@ -10,7 +10,8 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=vinaynpp)
+[![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)](https://github.com/vinaynpp)
 
 
 
