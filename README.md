@@ -14,7 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)](https://github.com/vinaynpp)
 
 
-
+[![Snake animation](./saap.svg)](./saap.svg)
 ---
 <!--
 [![wakatime](https://wakatime.com/badge/github/vinaynpp/vinaynpp.svg)](https://wakatime.com/badge/github/vinaynpp/vinaynpp)
@@ -24,7 +24,7 @@
 
 [![wakatime](https://wakatime.com/share/@fd3a753e-e2f4-4972-8c7b-7ca508217c61/d8b82a29-c677-4cdc-9091-67d8908f6579.svg)](https://github.com/vinaynpp)
 
-[![Snake animation](./saap.svg)](./saap.svg)
+
 
 **vinaynpp/vinaynpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
