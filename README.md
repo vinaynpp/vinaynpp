@@ -27,6 +27,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Snake animation](./saap.svg)](./saap.svg)
 ---
+
 <!--
 [![wakatime](https://wakatime.com/badge/github/vinaynpp/vinaynpp.svg)](https://wakatime.com/badge/github/vinaynpp/vinaynpp)
 
