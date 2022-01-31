@@ -15,6 +15,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=vinaynpp)
 [![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)](https://github.com/vinaynpp)
 
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinaynpp&theme=react&border=61dafb&hide_border=true" alt="vinaynpp" />
+
+
+<br><br><br><br><br><br><br>
+
+---
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=vinaynpp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 [![Snake animation](./saap.svg)](./saap.svg)
