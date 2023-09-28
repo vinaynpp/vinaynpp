@@ -3,7 +3,7 @@
 
 ## My GitHub Stonks 👨‍💼📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynpp&hide=html,css,sass,yara,hack,xslt,blade,php&theme=github_dark)](https://github.com/vinaynpp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynpp&hide=html,css,sass,yara,hack,xslt,blade,php,python&theme=github_dark)](https://github.com/vinaynpp)
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaynpp&theme=github_dark)](https://github.com/vinaynpp)
 
